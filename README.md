@@ -5,4 +5,5 @@ The currency exchange app converts SEK to Euro and USD simultaniously.
 1. It accepts SEK as input and converts to Euro and USD
 2. User friendly UI
 
+![Welcome Screen](Screenshot_20250907-120858.jpg)
 
