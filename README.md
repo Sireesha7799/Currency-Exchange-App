@@ -2,7 +2,7 @@
 This is an Android app built with Kotlin and XML layouts that helps users convert one currency into another. The app converts the currency value and shows the converted result instantly.
 
 ## 📌 Features
-- Convert currency from SEK to Euro and USD simultaniously
+- Convert currency from SEK to Euro and USD simultaneously
 - User-friendly UI designed with XML layouts
 - Fast and lightweight app for smooth performance
 
